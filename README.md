@@ -1,2 +1,2 @@
 # Public_Jobs
-A folder with my recent jobs. That is it
+A folder with my recent jobs.
